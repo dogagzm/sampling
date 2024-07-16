@@ -14,7 +14,11 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 
 ```
 Please write your explanation here...
+The provided code should reproduce graphs similar to those in Andrew Whitby's blog post, illustrating the bias introduced by contact tracing. To reproduce graphs similar to those in Andrew Whitby's blog post on contact tracing bias,
 
+True Proportion Graph: Display the true proportion of infections from weddings, centered around 20% (0.20), with some variation, reflecting that 20% of total cases are attributed to weddings in the simulation.
+
+Observed Proportion Graph: Show the observed proportion of infections from weddings after contact tracing, which should be higher than the true proportion due to bias from effectively tracing larger events like weddings.
 ```
 
 
