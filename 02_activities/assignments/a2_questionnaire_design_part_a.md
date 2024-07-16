@@ -20,26 +20,59 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to identify the reasons behind the high turnover rate in entry- and lower-level positions at a large tech company, and to determine what changes can be made to improve employee satisfaction and retention.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+The target population consists of current and recently departed employees in entry- and lower-level positions at the tech company.
+
+Sampling Frame
+The sampling frame includes the company's HR records of current and recently departed employees in entry- and lower-level positions.
+
+Sampling Units
+The sampling units are individual employees within the selected departments who are either currently employed or have left the company in the past six months.
+
+Overall Sampling Strategy
+The sampling strategy will be a combination of stratified and convenience sampling. Stratified sampling ensures representation across different departments and job roles, while convenience sampling allows for the inclusion of recently departed employees who are more easily accessible.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1-What is your age group?
+18-24
+25-34
+35-44
+45-54
+55-64
+65+
+2-What department do you (did you) work in?
+Engineering
+Marketing
+Sales
+Customer Support
+Human Resources
+Other (please specify)
+3-If you have left the company, what were the primary reasons for your departure? (Select all that apply)
+Better job offer elsewhere
+Lack of career advancement opportunities
+Poor work-life balance
+Inadequate compensation
+Job dissatisfaction
+Work environment or culture
+Other (please specify)
+4-How would you rate the work environment and culture at the company? (1 = Very Poor, 5 = Excellent)
+1
+2
+3
+4
+5
+5-How would you describe your work-life balance while working at the company?
+Very poor
+Poor
+Neutral
+Good
+Very good
 ```
 
 ## Rubric
