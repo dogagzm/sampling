@@ -4,19 +4,19 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    The quality of the sample is relatively strong due to the use of stratified sampling for current employees, which ensures that various departments and job roles are proportionately represented. This enhances the likelihood that the sample reflects the diversity within the company and captures a wide range of perspectives. However, the convenience sampling method used for recently departed employees may introduce bias, as these participants might not represent all reasons for turnover, especially if certain types of employees are more likely to respond than others. Additionally, non-response bias is a concern, particularly if dissatisfied employees are less inclined to participate. While the sample is designed to be representative, these potential biases must be managed to ensure accurate and reliable insights.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    Given the class content on error, survey quality, and ethics, no changes are necessary to the original survey.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    Observational studies are limited in capturing employees' subjective experiences and personal insights, which are crucial for understanding the reasons behind turnover. They focus on visible behavior, missing nuanced feelings and specific dissatisfaction causes. Surveys, in contrast, offer direct, confidential feedback on job satisfaction and turnover reasons, allowing statistical analysis and anonymity that promote honesty. While observational studies provide context, surveys are essential for gathering personal insights and quantifiable data to enhance employee satisfaction and retention efforts.
     ```
 
 ## Why am I doing this assignment?

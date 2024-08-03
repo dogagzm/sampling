@@ -10,10 +10,10 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Doga Gizem Memis
 
 ```
-Please write your explanation here...
+This code simulates a simplified model to demonstrate how contact tracing can lead to a biased understanding of COVID-19 infection sources. It models a community of 1000 people attending weddings or brunches, with an infection rate of 10%. Through primary contact tracing, where infections have a 20% chance of being traced, and secondary contact tracing, where events with multiple traced infections lead to full tracing, the code shows how the observed proportion of infections traced to weddings can appear significantly higher than the true proportion. By running the simulation 50,000 times, the resulting histograms reveal this bias, underscoring the challenge of accurately identifying infection sources through contact tracing in real-world scenarios.
 
 ```
 
